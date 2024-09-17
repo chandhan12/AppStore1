@@ -1,0 +1,26 @@
+
+.btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #000000;
+    background-color: rgb(244, 253, 255);
+    border: 1px solid #d3fbff;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #f1f1f1;
+  }
+  
+ 
+  .active-btn {
+    background-color: rgb(255, 175, 78);
+    color: white;
+  }
+  
+  .active-btn:hover {
+    background-color:  rgb(255, 175, 78);
+  }
+  

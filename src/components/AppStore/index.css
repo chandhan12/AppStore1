@@ -1,0 +1,59 @@
+
+.app-store-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+ 
+  h1 {
+    text-align: center;
+    color: #2c3e50;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+
+  .search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  input[type='search'] {
+    padding: 8px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .search-img {
+    width: 20px;
+    height: 20px;
+  }
+  
+ 
+  .tab-list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .tab-list li {
+    margin: 0 10px;
+  }
+  
+  
+  .app-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    padding: 0;
+  }
+  

@@ -1,0 +1,24 @@
+
+.app-item {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 150px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  .app-icon {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+
+  .app-item p {
+    font-size: 1rem;
+    color: #2c3e50;
+    margin-top: 10px;
+  }
+  
